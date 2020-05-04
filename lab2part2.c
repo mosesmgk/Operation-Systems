@@ -4,7 +4,7 @@
 # Title: Lab2 C lang 
 # Description: Stock program 
 */
-/*Sample C program for Lab assignment 1*/ 
+
 #include <stdio.h> /* printf, stderr */ 
 #include <sys/types.h> /* pid_t */
 #include <unistd.h> /* fork */
